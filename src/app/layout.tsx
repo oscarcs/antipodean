@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono, Readex_Pro, Sulphur_Point } from "next/font/google";
+import { Readex_Pro } from "next/font/google";
 import "./globals.css";
 
 const readexPro = Readex_Pro({
