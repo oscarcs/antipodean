@@ -1,4 +1,4 @@
-import { Orbit, MapPin, Ban } from "lucide-react";
+import { Orbit, MapPin, CircleSlash2 } from "lucide-react";
 
 export default function Home() {
   return (
@@ -14,12 +14,12 @@ export default function Home() {
           <div className="relative top-[-105px] left-[-5px] mix-blend-lighten bg-indigo-700 w-[110px] h-[110px] rounded-full"></div>
         </div>
         <div className="w-0 h-0">
-          <Ban
+          <CircleSlash2
             className="relative animate-spin text-indigo-400 top-[-100px] z-[-10]"
             style={{ animation: "spin 15s linear infinite", animationDirection: 'normal' }}
             size='100'
             strokeWidth={2}
-          ></Ban>
+          ></CircleSlash2>
         </div>
       </div>
       
