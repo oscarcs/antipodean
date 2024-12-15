@@ -16,7 +16,7 @@ export default function Home() {
         <div className="w-0 h-0">
           <Ban
             className="relative animate-spin text-indigo-400 top-[-100px] z-[-10]"
-            style={{ animation: "spin 30s linear infinite", animationDirection: 'reverse' }}
+            style={{ animation: "spin 15s linear infinite", animationDirection: 'normal' }}
             size='100'
             strokeWidth={2}
           ></Ban>
