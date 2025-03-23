@@ -25,7 +25,7 @@ export default function Home() {
       
       <div className="flex flex-col items-center">
         <h1 className="text-indigo-200">antipodean <span className="text-indigo-400">systems oü</span></h1>
-        {/* <p className="text-indigo-400 font-light">trans-hemispheric software solutions</p> */}
+        <p className="text-indigo-400">tarkvaraarendus</p>
       </div>
       
       <div className="flex flex-col items-center">
